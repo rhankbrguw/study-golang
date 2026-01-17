@@ -12,7 +12,7 @@ func main() {
 	fmt.Println("Nama kamu dikampus = ", name)
 }
 
-// SIMPLIFIED (no need declare type data first)
+// SIMPLIFIED (no need to declare data type first)
 // package main
 //
 // import "fmt"
