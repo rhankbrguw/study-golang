@@ -37,7 +37,7 @@ func main() {
 
 	fmt.Println("Hasil dari slice kelima adalah = ", numbers)
 
-	// FOR ADD DATA INSIDE ARRAY
+	// FOR ADD DATA INSIDE ARRAY (use append)
 	numbersSlice2 := append(numbersSlice1, 10)
 	fmt.Println("Hasil dari slice kelima adalah = ", numbersSlice2, "dan", numbers)
 
